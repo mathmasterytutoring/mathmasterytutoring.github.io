@@ -8,7 +8,6 @@
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-black text-blue-300 min-h-screen flex flex-col">
-
   <!-- Navigation -->
   <nav class="bg-black shadow-md">
     <div class="container mx-auto px-4 py-4 flex justify-between items-center">
@@ -122,7 +121,7 @@
         </div>
         <div>
           <h3 class="font-semibold">Do you offer trial sessions?</h3>
-          <p>Yes! New students can book a 30-minute trial session at a discounted rate to see if Math Mastery is the right fit.</p>
+          <p>Yes! New students can book a first class free trial session to see if Math Mastery is the right fit.</p>
         </div>
       </div>
     </section>
