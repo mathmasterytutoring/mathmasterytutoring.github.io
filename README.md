@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -24,7 +23,6 @@
       </div>
     </div>
   </nav>
-
   <main class="flex-grow">
     <!-- Hero Section -->
     <section id="home" class="container mx-auto px-4 py-16 flex flex-col md:flex-row items-center bg-blue-900 rounded-lg shadow-lg">
@@ -126,9 +124,4 @@
       </div>
     </section>
     <!-- Booking Section -->
-    <section id="booking" class="container mx-auto px-4 py-16 bg-black rounded-lg shadow-lg mt-12">
-      <h2 class="text-3xl font-bold mb-4 text-blue-400">Book a Session</h2>
-      <form class="max-w-md mx-auto text-blue-200" onsubmit="bookSession(event)">
-        <input type="text" id="name" placeholder="Your Name" required class="w-full mb-4 px-4 py-2 bg-blue-800 border border-blue-600 rounded text-blue-200 placeholder-blue-400" />
-        <input type="email" id="email" placeholder="Your Email" required class="w-full mb-4 px-4 py-2 bg-blue-800 border border-blue-600 rounded text-blue-200 placeholder-blue-400" />
-        <select id="grade" required class="w-full mb-4 px-4 py-2 bg-blue-800 border border-blue-600 rounded text-blue-200">
+    <https://docs.google.com/forms/d/1S-S_6X-x9PYrEi24YiQ4N41m142P_7IMpIGBGS2j_zU/edit>
