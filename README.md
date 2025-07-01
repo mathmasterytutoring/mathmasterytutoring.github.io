@@ -32,7 +32,10 @@
         <a href="#booking" class="inline-block px-8 py-4 bg-blue-400 text-black rounded-full hover:bg-blue-300">Book Your Session</a>
       </div>
       <div class="md:w-1/2 mt-8 md:mt-0">
-        <img src="https://via.placeholder.com/600x400/000000/FFFFFF?text=Math+Mastery" alt="Math tutoring" class="rounded-xl shadow-lg" />
+        <img
+        src="assets/images/Mathmastery-logo.png"
+        alt="Math Mastery logo"
+        class="h-10 w-auto mr-3"
       </div>
     </section>
     <!-- About Section -->
