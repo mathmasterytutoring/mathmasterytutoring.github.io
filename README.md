@@ -48,7 +48,7 @@
         Over the past three years, I’ve built my tutoring career from the ground up: delivering more than <strong>200 hours</strong> of one-on-one and group lessons online, guiding over <strong>120 students</strong> to significant grade improvements, and designing custom worksheets and quizzes that make complex topics click. I’ve maintained a consistent 90%+ in all my math courses, hold certifications in UCMAS and A+ Tutoring Programs, and continuously refine my methods based on student feedback.
       </p>
       <p class="text-blue-200 leading-relaxed">
-        Beyond tutoring and music, I captain my school’s basketball team—managing plays, mentoring new players, and leading practices—and I bring that same leadership energy into every lesson. My interactive style uses sports and musical analogies to simplify concepts, keeps sessions fast-paced, and ensures students stay engaged and confident. Ready to team up and master math? Let’s get started! 🏀🎹➗
+        Beyond tutoring and music, I captain my basketball team—managing plays, mentoring new players, and leading practices—and I bring that same leadership energy into every lesson. My interactive style uses sports and musical analogies to simplify concepts, keeps sessions fast-paced, and ensures students stay engaged and confident. Ready to team up and master math? Let’s get started! 🏀🎹➗
       </p>
     </section>
     <!-- Services Section -->
