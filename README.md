@@ -1,4 +1,3 @@
-# mathmasterytutoring.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,7 +38,6 @@
         <img src="https://via.placeholder.com/600x400/000000/FFFFFF?text=Math+Mastery" alt="Math tutoring" class="rounded-xl shadow-lg" />
       </div>
     </section>
-
     <!-- About Section -->
     <section id="about" class="container mx-auto px-4 py-16 bg-black rounded-lg shadow-lg mt-12">
       <h2 class="text-3xl font-bold mb-4 text-blue-400">About Me</h2>
@@ -56,7 +54,6 @@
         Beyond tutoring and music, I captain my school’s basketball team—managing plays, mentoring new players, and leading practices—and I bring that same leadership energy into every lesson. My interactive style uses sports and musical analogies to simplify concepts, keeps sessions fast-paced, and ensures students stay engaged and confident. Ready to team up and master math? Let’s get started! 🏀🎹➗
       </p>
     </section>
-
     <!-- Services Section -->
     <section id="services" class="container mx-auto px-4 py-16 bg-black rounded-lg shadow-lg mt-12">
       <h2 class="text-3xl font-bold mb-8 text-blue-400">Services</h2>
@@ -75,7 +72,6 @@
         </div>
       </div>
     </section>
-
     <!-- Features Section -->
     <section id="features" class="container mx-auto px-4 py-16 bg-black rounded-lg shadow-lg mt-12">
       <h2 class="text-3xl font-bold mb-8 text-blue-400">Why Choose Math Mastery?</h2>
@@ -86,7 +82,6 @@
         <li class="flex items-start"><span class="text-2xl text-blue-400 mr-4">✔</span><div><strong>Flexible Scheduling:</strong> Evening and weekend slots available to fit busy calendars.</div></li>
       </ul>
     </section>
-
     <!-- Testimonials Section -->
     <section id="testimonials" class="container mx-auto px-4 py-16 bg-black rounded-lg shadow-lg mt-12">
       <h2 class="text-3xl font-bold mb-8 text-blue-400">What Students Say</h2>
@@ -105,7 +100,6 @@
         </div>
       </div>
     </section>
-
     <!-- FAQ Section -->
     <section id="faq" class="container mx-auto px-4 py-16 bg-black rounded-lg shadow-lg mt-12">
       <h2 class="text-3xl font-bold mb-8 text-blue-400">Frequently Asked Questions</h2>
@@ -132,7 +126,6 @@
         </div>
       </div>
     </section>
-
     <!-- Booking Section -->
     <section id="booking" class="container mx-auto px-4 py-16 bg-black rounded-lg shadow-lg mt-12">
       <h2 class="text-3xl font-bold mb-4 text-blue-400">Book a Session</h2>
