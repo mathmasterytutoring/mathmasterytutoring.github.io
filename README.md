@@ -32,10 +32,6 @@
         <a href="#booking" class="inline-block px-8 py-4 bg-blue-400 text-black rounded-full hover:bg-blue-300">Book Your Session</a>
       </div>
       <div class="md:w-1/2 mt-8 md:mt-0">
-        <img
-        src="assets/images/Mathmastery-logo.png"
-        alt="Math Mastery logo"
-        class="h-10 w-auto mr-3"
       </div>
     </section>
     <!-- About Section -->
@@ -126,5 +122,5 @@
         </div>
       </div>
     </section>
-    <<!!-- Booking Section -->
+    <!!-- Booking Section -->
     <https://docs.google.com/forms/d/1S-S_6X-x9PYrEi24YiQ4N41m142P_7IMpIGBGS2j_zU/edit>
